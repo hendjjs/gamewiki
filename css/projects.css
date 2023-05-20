@@ -1,0 +1,46 @@
+main>h1 {
+    color: white;
+    font-family: 'Qiucksand', sans-serif;
+    margin-top: 25px;
+    margin-left: 50px;
+    margin-bottom: 25px;
+}
+.project-1 img, .project-2 img {
+    width: 70%;
+    height: 70%;
+}
+.project {
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    padding: 80px 5px;
+    background-color: #A100ED;
+    width: 890px;
+    border-radius: 20px;
+}
+.project-1, .project-2 {
+    width: 700px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    padding: 40px 10px;
+    background-color: #2e2d2d;
+    border-radius: 20px;
+}
+.project-2 {
+    margin-bottom: 25px;
+}
+.project-1>p, .project-2>p {
+    width: 70%;
+    margin: 0 auto;
+    font-size: 25px;
+    color: white;
+    margin-top: 20px;
+}
+.project-1 h1, .project-2 h1 {
+    color: #DA00FE;
+    margin-top: 20px;
+}
+.projects {
+    background-color: #A100ED;
+    border: 1px solid #A100ED;
+}
