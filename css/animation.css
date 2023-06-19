@@ -1,0 +1,13 @@
+body {
+    animation: move 2s 1 forwards;
+    animation-timing-function: ease;
+}
+@keyframes move {
+    0%{
+        transition: 1s;
+        transform: translateY(-1000px);
+    }
+    100%{
+        
+    }
+}

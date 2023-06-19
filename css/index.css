@@ -67,6 +67,9 @@
 .button:hover {
     color: #DA00FE;
 }
+.button:hover::after {
+    content: ' →';
+}
 .index {
     background-color: #A100ED;
     border: 1px solid #A100ED;
