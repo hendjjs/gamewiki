@@ -10,7 +10,7 @@ a {
     text-decoration: none;
 }
 html {
-    background-image: url("https://foni.club/uploads/posts/2023-01/1674411419_foni-club-p-fon-povtoryayushchiisya-4.jpg");
+    background-image: url("../img/fon.jpg");
 }
 body {
     background-color: #242424;
@@ -38,6 +38,7 @@ header>nav>a {
     border: 1px solid #8A8A8A;
     border-radius: 20px;
     padding: 5px 40px;
+    transition: 0.5s;
 }
 header>nav>a:hover {
     background-color: #A100ED;
