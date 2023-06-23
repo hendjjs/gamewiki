@@ -74,17 +74,18 @@ footer p:hover, footer a:hover{
     border: 1px solid none;
     border-radius: 20px;
     background-color: #A100ED;
-    height: 22vh;
-    width: 47vw;
+    width: 46vw;
     margin-top: 50px;
     margin-left: auto;
     margin-right: auto;
-    padding-top: 60px;
+    padding: 50px 10px;
     position: relative;
     left: 3px;
+    display: flex;
 }
 .welcome img {
-    float: left;
+    width: 20%;
+    height: 65%;
 }
 .welcome p {
     font-family: 'Prociono', sans-serif;
