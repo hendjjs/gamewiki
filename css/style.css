@@ -96,3 +96,24 @@ footer p:hover, footer a:hover{
     width: 90%;
     color: white;
 }
+@media (min-width: 320px) and (max-width: 700px) {
+    body {
+        width: 100%;
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .welcome {
+        width: 80vw;
+        flex-direction: row;
+        align-items: center;
+        padding: 10px 10px;
+        text-align: left;
+    }
+    .welcome img {
+        width: 40%;
+        height: 40%;
+    }
+    .welcome p {
+        font-size: 15px;
+    }
+}
